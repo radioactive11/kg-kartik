@@ -12,7 +12,7 @@
 
 Hi, I'm Kartik Goel, a Full Stack Developer 🚀 from India, currently I am working with MERN Stack for developing web applications and React Native for android applications.
 
-<p align="right"> ![Kartik Goel's github stats](https://github-readme-stats.vercel.app/api?username=kg-kartik&show_icons=true&hide_border=true) </p>
+ ![Kartik Goel's github stats](https://github-readme-stats.vercel.app/api?username=kg-kartik&show_icons=true&hide_border=true) 
   
 **Talking about Personal Stuffs:**
 
