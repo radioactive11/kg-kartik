@@ -1,14 +1,24 @@
 ### Hi there 👋
 ### Hey 👋🏽, I'm [Kartik!](https://kg-kartik.github.io/) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kg-kartik&label=Profile Views&color=blue&style=plastic" alt="rshrc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kg-kartik&label=Profile Views&color=blue&style=plastic" alt="kg-kartik" /> </p>
 
 <a href="https://www.linkedin.com/in/kartik-g-7b5790131/">
   <img align="left" alt="Kartik's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 <a href="https://www.instagram.com/_kg_kartik/">
   <img align="left" alt="Kartik's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+<a href="https://www.facebook.com/kartik.goel.5811">
+  <img align="left" alt="Kartik's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+<a href="https://twitter.com/KartikG28281327">
+  <img align="left" alt="Kartik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
 <br />
 <br />
 
