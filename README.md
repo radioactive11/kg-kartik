@@ -16,7 +16,7 @@
 </a>
 
 <a href="https://twitter.com/KartikG28281327">
-  <img align="left" alt="Kartik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Kartik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <br />
