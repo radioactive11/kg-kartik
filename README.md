@@ -22,11 +22,12 @@
 <br />
 <br />
 
-Hi, I'm Kartik Goel, a Full Stack Developer 🚀 from India, currently I am working with MERN Stack for developing web applications and React Native for android applications.
+Hi, I'm Kartik Goel, a Full Stack Developer 🚀 from India, I work with MERN Stack for developing web applications and React Native for mobile applications.
+I have also worked with GraphQL and a little with cloud services too like Azure,AWS.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working in React Native;
+- 👨🏽‍💻 I’m currently learning about microservice architecture and how to build scalable apps.
 - 👯 I’m looking to collaborate on interesting projects. 🤝;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I like to write poems and have a small collection on my blog [Blog](http://kartikgoelwords.blogspot.com/) 
