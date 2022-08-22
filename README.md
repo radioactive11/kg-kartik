@@ -1,49 +1,53 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kg-kartik&label=Profile Views&color=blue&style=flat-square" alt="kg-kartik" /> </p>
+<img src="static/api_gif.gif"/>
+<br>
+<br>
 
-### Hi there 👋
-### Hey 👋🏽, I'm [Kartik!](https://kg-kartik.github.io/) 
+<h2 align="center">Hi <img src="static/wave.gif" width="30px"> I am Kartik Goel </h2>
 
-<a href="https://www.linkedin.com/in/kartik-g-7b5790131/">
-  <img align="left" alt="Kartik's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<hr>
 
-<a href="https://www.instagram.com/_kg_kartik/">
-  <img align="left" alt="Kartik's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<p align="center">I am a Full Stack Developer specializing in System Design, Software Architecture, Databases Design, Data Flow Automation, API Development and Scaling.</p>
 
-<a href="https://www.facebook.com/kartik.goel.5811">
-  <img align="left" alt="Kartik's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+<br>
 
-<a href="https://twitter.com/KartikG28281327">
-  <img align="left" alt="Kartik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<br />
-<br />
-
-Hi, I'm Kartik Goel, a Full Stack Developer 🚀 from India, I work with MERN Stack for developing web applications and React Native for mobile applications.
-I have also worked with GraphQL and a little with cloud services too like Azure,AWS.
-  
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently learning about microservice architecture and how to build scalable apps.
-- 👯 I’m looking to collaborate on interesting projects. 🤝;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I like to write poems and have a small collection on my blog [Blog](http://kartikgoelwords.blogspot.com/) 
-- 📫 How to reach me: goel.kartik39@gmail.com;
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<h2 align="center">Tech Stack🧑‍💻</h2>
+<br>
+<!-- ![JavaScript]()&nbsp; -->
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
+<img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript">
+<img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus">
+<img src="https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js">
+<img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express">
+<img src="https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql">
+<img src="https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx">
+<img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb">
+<img src="https://img.shields.io/badge/-Apache Cassandra-05122A?style=flat&logo=apache cassandra">
+<img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis">
+<img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql">
+<img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">
+<img src="https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq">
+<img src="https://img.shields.io/badge/-Apache Kafka-05122A?style=flat&logo=apache kafka">
+<img src="https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react">
+<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap">
+<img src="https://img.shields.io/badge/-Tailwind CSS-05122A?style=flat&logo=tailwind css">
+<img src="https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass">
+<img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js">
+<img src="https://img.shields.io/badge/-Chai-05122A?style=flat&logo=chai">
+<img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker">
+<img src="https://img.shields.io/badge/-Microsoft Azure-05122A?style=flat&logo=microsoft azure">
+<img src="https://img.shields.io/badge/-Google Cloud-05122A?style=flat&logo=google cloud">
+<img src="https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku">
+<img src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel">
 
 
-⭐️ From [kg-kartik](https://github.com/kg-kartik)
-
+<h2 align="center">My Projects🗃</h2>
+<p align="center">
+  <a href="https://github.com/rezonance-india/app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rezonance-india&repo=app&theme=dark&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/radioactive11/diode"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=diode&theme=dark&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/salydindia/salyd-server.git"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=salydindia&repo=salyd-server&theme=dark&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/radioactive11/aqua"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=aqua&theme=dark&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/0xCompyler/aqua"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xCompyler&repo=aqua&theme=dark&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/radioactive11/healthbridge"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=healthbridge&theme=dark&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+</p>
 
 
