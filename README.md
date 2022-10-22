@@ -13,6 +13,7 @@
 <h2 align="center">Tech Stack🧑‍💻</h2>
 <br>
 <!-- ![JavaScript]()&nbsp; -->
+<p>
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
 <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript">
 <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus">
@@ -38,7 +39,7 @@
 <img src="https://img.shields.io/badge/-Google Cloud-05122A?style=flat&logo=google cloud">
 <img src="https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku">
 <img src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel">
-
+</p>
 
 <h2 align="center">My Projects🗃</h2>
 <p align="center">
